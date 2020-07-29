@@ -1,4 +1,4 @@
-# Dominik Penner
+# Dominik Penner (@zer0pwn)
 
 
 ## Introduction
