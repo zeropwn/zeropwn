@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Experienced leader, consultant, and security researcher. I specialize in web-app security and backend / API development. I have helped a wide variety of organizations secure their systems over the course of approximately 7 years. Some of these include: Internet Service Providers & Electronic Medical Software vendors and Open Source projects. My main focus is to report critical vulnerabilities in software/hardware before malicious adversaries have the opportunity to exploit them.
+Experienced leader, consultant, and security researcher. I specialize in application and cloud security. I have helped a wide variety of organizations secure their systems over the course of approximately 7 years. Some of these include: Internet Service Providers & Electronic Medical Software vendors and Open Source projects. My main focus is to report critical vulnerabilities in software/hardware before malicious adversaries have the opportunity to exploit them.
 
 ## Security Advisories
 
