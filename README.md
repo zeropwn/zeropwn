@@ -12,7 +12,7 @@ Experienced leader, developer, consultant, and security researcher. I specialize
 * CVE-2019-14744 (KDE Frameworks < 51.60 Command Execution) [[Blog post](https://zero.lol/2019/08/11/the-year-of-linux-on-the-desktop), [Advisory](https://nvd.nist.gov/vuln/detail/CVE-2019-14744)]
 * CVE-2020-16116 (KDE Ark < 20.08.0 Directory Traveral Code Execution) [[Blog post](https://www.bleepingcomputer.com/news/security/kde-archive-tool-flaw-let-hackers-take-over-linux-accounts/), [Advisory](https://nvd.nist.gov/vuln/detail/CVE-2020-16116)]
 * CVE-2020-24656 (Maltego XML External Entity Injection) [[Blog post](https://www.hackersforchange.com/post/maltego-cve-2020-24656-analysis), [Advisory](https://nvd.nist.gov/vuln/detail/CVE-2020-24656)]
-* CVE-2024-38392 (Pexip Infinity Connect Arbitrary JavaScript Execution) [[Advisory](https://nvd.nist.gov/vuln/detail/CVE-2024-38392)]
+* CVE-2024-38392 (Pexip Infinity Connect Arbitrary JavaScript Execution) [[Advisory](https://docs.pexip.com/admin/security_bulletins.htm#connect)]
 * CVE-2024-54540 (Apple Music Windows Arbitrary JavaScript Execution) [[Advisory](https://nvd.nist.gov/vuln/detail/CVE-2024-54540)]
 
 ## Projects
