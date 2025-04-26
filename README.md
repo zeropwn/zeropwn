@@ -19,7 +19,8 @@ Experienced leader, developer, consultant, and security researcher. I specialize
 
 ### [Porch Pirate](https://github.com/mandconsultinggroup/porch-pirate)
 Porch Pirate is the most comprehensive recon / OSINT client and framework for Postman that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
-![](https://camo.githubusercontent.com/842bcc758b08e7398be03522f4a86b728ff347279fbcc2c4a2c5bf13f5b5ea67/68747470733a2f2f692e696d6775722e636f6d2f7432504a326a462e706e67)
+
+![](https://camo.githubusercontent.com/4b4a8b0b860d83cd4dafa6884b22396596da4e7a67e335e19a06bc2836f0fcf5/68747470733a2f2f692e696d6775722e636f6d2f435757356230442e706e67)
 
 ### [Intelligence X API Wrapper](https://github.com/IntelligenceX/SDK/tree/master/Python)
 intelx.py is a Python command-line utility and API wrapper for intelx.io, made to perform any kind of open-source intelligence.
